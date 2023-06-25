@@ -17,9 +17,9 @@ Requires Alfred and the [Alfred Powerpack](https://www.alfredapp.com/powerpack/)
 1. Type `wcag`, the Workflow filter keyword, and then <kbd>Space</kbd>.
 2. Begin typing either the SC's number (ex: `2.5.3`) or its title (`Label in Name`). The Workflow's results will update as you refine your query.
 3. Take action on a result by highlighting it in the Alfred command palette results and using one of the following interactions:
-  * <kbd>Enter</kbd>/click: Copy the SC's number, name, and link to its Understanding page as a HTML link.
-  * <kbd>Option</kbd> + <kbd>Enter</kbd>: Copy the SC's Understanding page URL to the clipboard.
-  * <kbd>Command</kbd> + <kbd>Enter</kbd>: Open the SC's Understanding page URL in the default browser.
+    * <kbd>Enter</kbd>/click: Copy the SC's number, name, and link to its Understanding page as a HTML link.
+    * <kbd>Option</kbd> + <kbd>Enter</kbd>: Copy the SC's Understanding page URL to the clipboard.
+    * <kbd>Command</kbd> + <kbd>Enter</kbd>: Open the SC's Understanding page URL in the default browser.
 
 ## How to report a problem with this Workflow
 
