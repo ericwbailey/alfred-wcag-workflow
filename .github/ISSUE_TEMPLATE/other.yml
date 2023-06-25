@@ -1,0 +1,17 @@
+name: Something else
+description: Raise an issue that isn't covered with the other issue templates
+labels: "needs triage"
+assignees:
+  - ericwbailey
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Raise an issue that isn't covered with the other issue templates.
+  - type: textarea
+    id: your-issue
+    attributes:
+      label: Your issue
+      description: Please describe your issue in as much detail as possible. Include screenshots and other information if they are applicable to the issue you are describing.
+    validations:
+      required: true

@@ -1,0 +1,45 @@
+name: Bug report
+description: File a bug report
+title: "[Bug] "
+labels: "bug"
+assignees:
+  - ericwbailey
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Filling out this form will help me address the issue you encountered.
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: Please describe the issue in detail, including what you expected to happen. Include screenshots if they are relevant.
+    validations:
+      required: true
+  - type: input
+    id: macos-version
+    attributes:
+      label: macOS Version
+      description: What version of macOS were you using when encountering the bug?
+    validations:
+      required: true
+  - type: input
+    id: alfred-version
+    attributes:
+      label: Alfred version
+      description: What version of Alfred were you using when encountering the bug?
+    validations:
+      required: true
+  - type: input
+    id: browsers
+    attributes:
+      label: Browsers (optional)
+      description: What browsers were you using when encountering the bug?
+    validations:
+      required: false
+  - type: textarea
+    id: anything-else
+    attributes:
+      label: Anything else?
+      description: Any other information I should know about for this bug?
+

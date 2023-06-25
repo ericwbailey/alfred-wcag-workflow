@@ -1,0 +1,31 @@
+name: Feature suggestion
+description: Have an idea for this project?
+title: "[Feature suggestion] "
+labels: "feature"
+assignees:
+  - ericwbailey
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Have an idea for this project? Let's chat about it!
+  - type: textarea
+    id: feature-suggestion
+    attributes:
+      label: Feature suggestion
+      description: What would you like added to this project? Describe what it is, how you envision it will work, and what benefits it will create.
+    validations:
+      required: true
+  - type: checkboxes
+    id: reference
+    attributes:
+      label: Have you referenced the "Features I would like help with" portion of the README?
+      options:
+        - label: I have
+  - type: checkboxes
+    id: ownership
+    attributes:
+      label: Who would you like to work on this feature?
+      options:
+        - label: I would like to work on this feature
+        - label: I would like the repo owner (@ericwbailey) to work on this feature
