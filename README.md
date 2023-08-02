@@ -33,9 +33,9 @@ Submit an issue to the GitHub issue tracker using the [feature suggestion issue 
 
 ### Features I would like help with
 
-- [ ] Figuring out why the SC's title (ex: `Label in Name`) is not part of the fuzzy match if a number is not included.
-- [ ] Opening the base WCAG 2.1 URL when no filter keyword is entered and <kbd>Enter</kbd> is pressed.
-- [ ] Logic for showing a custom icon for each of the four POUR categories (Perceivable, Operable, Understandable, Robust).
+- [x] Figuring out why the SC's title (ex: `Label in Name`) is not part of the fuzzy match if a number is not included.
+- [x] Opening the base WCAG 2.1 URL when no filter keyword is entered and <kbd>Enter</kbd> is pressed.
+- [x] Logic for showing a custom icon for each of the four POUR categories (Perceivable, Operable, Understandable, Robust).
 
 ## FAQ
 
