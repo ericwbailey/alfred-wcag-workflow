@@ -55,6 +55,10 @@ I am hoping to be either retired or dead by the time WCAG 3.0 is published, but 
 
 Thank you to [Wayne Elgin](https://github.com/esjay) for his help with how JavaScript and Alfred Workflow syntax intersect.
 
+## You may also like
+
+[Keyboard-Maestro-Web-Dev-Macros](https://github.com/lloydi/Keyboard-Maestro-Web-Dev-Macros), by [Ian Lloyd](https://github.com/lloydi)
+
 ## License
 
 This Workflow is licensed using [the MIT License](https://github.com/ericwbailey/alfred-wcag-workflow/blob/main/LICENSE).
