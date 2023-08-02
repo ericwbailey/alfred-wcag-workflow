@@ -1,6 +1,6 @@
 # Alfred WCAG Workflow
 
-![The term 'wcag 2.5' entered into Alfred's quick launcher text input. Nine WCAG success criterion results are listed, with the fifth result highlighted. The first result is 2.5.1: Pointer Gestures. The second restult is 1.2.5: Audio Description (Prerecorded). The third result is 2.2.5: Re-authenticating. The fourth result is 2.5.2: Pointer Cancellation. The fifth result is 2.5.3: Label in Name. The sixth result is 2.5.4: Motion Actuation. The seventh result is 2.5.5: Target Size. The eigth result is 2.5.6: Concurrent Input Mechanism. The ninth result is 3.2.5: Change on Request. Screenshot.](https://github.com/ericwbailey/alfred-wcag-workflow/assets/634191/fd296ab1-a081-4256-87d7-18abe091e5c6)
+![The term 'wcag 1.3' entered into Alfred's quick launcher text input. Six WCAG success criterion results are listed, with the first result highlighted. The first result is 1.3.1 Info and Relationships. The second result is 1.3.2 Meaningful Sequence. The third result is 1.3.3 Sensory Characteristics. The fourth result is 1.3.4 Orientation. The fifth result is 1.3.5 Identify Input Purpose. The sixth result is 1.3.5 Identify Purpose. Screenshot.](https://github.com/ericwbailey/alfred-wcag-workflow/assets/634191/98900fc3-224c-4558-bd30-a3e9bb5aa0c2)
 
 This [Alfred](https://www.alfredapp.com/) Workflow allows you to search through Web Content Accessibility Guidelines (WCAG) Success Criterion (SC), and then copy a link to the selected SC to your clipboard or open its Understanding page in your default browser.
 
