@@ -17,7 +17,7 @@ Requires Alfred and the [Alfred Powerpack](https://www.alfredapp.com/powerpack/)
 ## How to use this Workflow
 
 1. Type `wcag`, the Workflow filter keyword, and then <kbd>Space</kbd>.
-2. Begin typing the SC's number (ex: `2.5.3`). The Workflow's results will update as you refine your query.
+2. Begin typing either the SC's number (ex: `2.5.3`) or its title (ex: `label in name`). The Workflow's results will update as you refine your query.
 3. Take action on a result by highlighting it in the Alfred command palette results and using one of the following interactions:
     * <kbd>Enter</kbd>/click: Copy the SC's number, name, and link to its Understanding page as a HTML link.
     * <kbd>Option</kbd> + <kbd>Enter</kbd>: Copy the SC's Understanding page URL to the clipboard.
@@ -33,9 +33,9 @@ Submit an issue to the GitHub issue tracker using the [feature suggestion issue 
 
 ### Features I would like help with
 
-- [x] Figuring out why the SC's title (ex: `Label in Name`) is not part of the fuzzy match if a number is not included.
-- [x] Opening the base WCAG 2.1 URL when no filter keyword is entered and <kbd>Enter</kbd> is pressed.
-- [x] Logic for showing a custom icon for each of the four POUR categories (Perceivable, Operable, Understandable, Robust).
+- [x] ~Figuring out why the SC's title (ex: `Label in Name`) is not part of the fuzzy match if a number is not included.~
+- [x] ~Opening the base WCAG 2.1 URL when no filter keyword is entered and <kbd>Enter</kbd> is pressed.~
+- [x] ~Logic for showing a custom icon for each of the four POUR categories (Perceivable, Operable, Understandable, Robust).~
 
 ## FAQ
 
@@ -53,7 +53,7 @@ I am hoping to be either retired or dead by the time WCAG 3.0 is published, but 
 
 ## Thank you
 
-Thank you to [Wayne Elgin](https://github.com/esjay) for his help with Alfred Workflow syntax.
+Thank you to [Wayne Elgin](https://github.com/esjay) for his help with how JavaScript and Alfred Workflow syntax intersect.
 
 ## License
 
