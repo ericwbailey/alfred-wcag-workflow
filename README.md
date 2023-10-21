@@ -4,7 +4,7 @@
 
 This [Alfred](https://www.alfredapp.com/) Workflow allows you to search through Web Content Accessibility Guidelines (WCAG) Success Criterion (SC), and then copy a link to the selected SC to your clipboard or open its Understanding page in your default browser.
 
-The Workflow uses [WCAG 2.1](https://www.w3.org/TR/WCAG21/), which is the current W3C Recommendation at the time of this Workflow's last published update.
+The Workflow uses [WCAG 2.2](https://www.w3.org/TR/WCAG22/), which is the current W3C Recommendation at the time of this Workflow's last published update.
 
 ## How to install this Workflow
 
